@@ -3,6 +3,7 @@
 **D Lydian Fractal Tree · Procedural Ambient Music & Visualization**
 
 - **Live Demo:** https://mahim0007.github.io/recursive-soundscapes/
+- **Prompt Log:** See [prompt.log](prompt.log) for the original prompt and response used to build this project.
 
 An interactive creative-coding web application built for **Solo Hackathon · Creative Coding · Epoch 1**. Every branch of a recursive binary fractal tree is traversed and mapped in real time to harmonic notes, stereo space, ambient reverb, and luminous Canvas 2D visuals — and can be recorded and downloaded directly from the browser.
 
@@ -101,6 +102,7 @@ npm run dev
 ```text
 ├── index.html                        # Entry HTML, viewport & inline SVG favicon
 ├── package.json                      # Scripts and dependencies
+├── prompt.log                        # Original prompt & response log
 ├── tsconfig.json                     # TypeScript configuration
 ├── vite.config.ts                    # Vite & Tailwind CSS plugin config
 └── src/
