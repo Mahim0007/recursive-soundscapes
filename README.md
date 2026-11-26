@@ -2,6 +2,9 @@
 
 **D Lydian Fractal Tree · Procedural Ambient Music & Visualization**
 
+- **Live Demo:** https://mahim0007.github.io/recursive-soundscapes/
+- **Repository:** https://github.com/Mahim0007/recursive-soundscapes
+
 An interactive creative-coding web application built for **Solo Hackathon · Creative Coding · Epoch 1**. Every branch of a recursive binary fractal tree is traversed and mapped in real time to harmonic notes, stereo space, ambient reverb, and luminous Canvas 2D visuals — and can be recorded and downloaded directly from the browser.
 
 ---
